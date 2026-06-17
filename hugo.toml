@@ -1,0 +1,79 @@
+baseURL = "https://poldermate.nl/"
+languageCode = "en-us"
+title = "poldermate.nl \U0001F9C9"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+# Search index (PaperMod's built-in fuzzy search)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  env = "production"
+  title = "poldermate"
+  description = "Notes, builds and field reports from the polder."
+  author = "C."
+  defaultTheme = "auto"          # auto | light | dark
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowRssButtonInSectionTermList = true
+
+  # Header brand: text + logo (see section 6)
+  [params.label]
+    text = "\U0001F9C9"
+    icon = "/logo.svg"
+    iconHeight = 35
+
+  # Landing card on the home page
+  [params.homeInfoParams]
+    Title = "Welcome to `poldermate`"
+    Content = "(/ˈpōl-dər mä-ˈtā/)  \nNotes, builds and field reports from the polder."
+
+  # Favicons (see section 6)
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# --- Menu: single posts section, no topic sections for now ---
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 30

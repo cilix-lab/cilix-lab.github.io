@@ -1,0 +1,33 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 520 88"
+  role="img"
+  aria-label="Poldermate">
+
+  <title>Poldermate</title>
+  <desc>Poldermate — aviation data and systems thinking from the Netherlands</desc>
+
+  <defs>
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&family=DM+Serif+Display&display=swap');
+    ]]></style>
+  </defs>
+
+  <!-- Transparent background — no rect needed, works on any page bg -->
+
+  <text x="28" y="65" fill="#5B7A40" font-size="60">
+    <tspan
+      font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif"
+      font-weight="300"
+      letter-spacing="5">polder</tspan><tspan
+      font-family="'DM Serif Display', Georgia, 'Times New Roman', serif"
+      font-weight="400"
+      dx="-5">mate</tspan><tspan
+      font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif"
+      font-weight="300"
+      font-size="39"
+      letter-spacing="2"
+      dx="5">.nl</tspan>
+  </text>
+
+</svg>

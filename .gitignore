@@ -1,0 +1,15 @@
+# Hugo build output
+/public/
+
+# Hugo resource cache (process assets like SCSS, JS, images)
+/resources/_gen/
+
+# Hugo lock file (generated on each build, varies by environment)
+.hugo_build.lock
+
+# OS and editor files (optional but recommended)
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~

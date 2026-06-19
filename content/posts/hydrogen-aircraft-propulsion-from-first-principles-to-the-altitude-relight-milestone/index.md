@@ -11,10 +11,6 @@ cover:
   alt: "Conceptual illustration of hydrogen jet engine turbine with blue flame at high altitude"
 ---
 
-*Report compiled: June 19, 2026. Synthesizes publicly available information from OEM announcements, regulatory filings, industry analyses (IATA, ICAO, IEA, Clean Aviation JU), and technology developer disclosures. Fact-checked against primary sources.*
-
----
-
 ## Executive Summary
 
 Hydrogen propulsion has moved from a speculative concept to an actively tested engineering discipline. Two distinct technical routes are being pursued in parallel: **hydrogen combustion** (burning H₂ in modified gas turbines) and **hydrogen fuel cells** (electrochemically converting H₂ to electricity that drives electric motors). A third hybrid approach combines both. Each carries a different maturity level, weight penalty, and commercial timeline.
@@ -274,34 +270,6 @@ The viability of hydrogen aviation is inseparable from the green hydrogen econom
 
 ---
 
-## Part VIII: Recommendations
-
-### For Industry Stakeholders
-
-1. **Prioritize full annular combustor testing.** The multi-cup sector data should transition rapidly to a full annular rig. This step is essential to validate scaling assumptions and to identify any combustion-instability modes that only appear at full engine geometry.
-2. **Invest in hydrogen ignition system supply chains.** The Unison custom ignition system was a success factor in the HYDEA test. Scaling hydrogen propulsion will require a strong supply base for hydrogen-specific fuel nozzles, igniters, and control systems, components that do not yet exist at production scale.
-3. **Harmonize certification pathways early.** GE Aerospace, Airbus, and other HYDEA participants should work through the Clean Aviation framework to establish a joint industry position on hydrogen certification requirements.
-
-### For Policymakers and Funding Bodies
-
-4. **Sustain multi-track funding.** The HYDEA-AMBER parallel success validates the Clean Aviation approach of funding multiple technology pathways simultaneously. Policymakers should resist pressure to downselect prematurely.
-5. **Establish hydrogen aviation infrastructure corridors.** Designate 10 to 15 pioneer airports for LH₂ fueling infrastructure investment by 2028, creating the minimum viable network for early commercial operations.
-6. **Expand altitude test infrastructure.** DLR Lampoldshausen's altitude simulation capability was a critical enabler of the HYDEA relight test. As hydrogen combustion testing scales, Europe should assess whether additional altitude-test capacity is needed to avoid a single-point bottleneck.
-
-### For Airlines and Airports
-
-7. **Begin hydrogen readiness assessments now.** Identify which routes (short-haul, high-frequency, hub-to-hub) are best suited for first-generation hydrogen aircraft, and what infrastructure investment that implies.
-8. **Do not abandon SAF investment.** Hydrogen is not a 2025 to 2030 solution; SAF remains the only scalable near-term decarbonization tool and should be pursued in parallel.
-
-### For Investors and Analysts
-
-9. **Watch for full annular rig results as the next material milestone.** The HYDEA relight envelope is a necessary but not sufficient condition for a certifiable engine. The full annular combustor test, likely within 18 to 24 months, represents the next significant derisking event.
-10. **Track Airbus ZEROe architecture decisions.** Airbus's downselection of hydrogen aircraft architecture (expected late 2020s) will be a pivotal signal for the commercial viability of hydrogen combustion.
-11. **Stage capital deployment.** Fund commuter/regional fuel cell plays (2026 to 2030 horizon) separately from narrowbody combustion plays (2035+ horizon); the risk profiles are fundamentally different.
-12. **Weight infrastructure over OEM bets in the near term.** Hydrogen production, liquefaction, and airport fueling infrastructure have clearer revenue models and lower technology risk than novel aircraft platforms in the 2025 to 2032 window.
-
----
-
 ## Key Source Links
 
 - GE Aerospace / Avio Aero HYDEA and AMBER announcement: [geaerospace.com](https://www.geaerospace.com/news/press-releases/avio-aero-and-ge-aerospace-complete-clean-aviation-test-milestones-europe-advance)
@@ -315,16 +283,3 @@ The viability of hydrogen aviation is inseparable from the green hydrogen econom
 - Rolls-Royce / easyJet, full engine hydrogen test: [easyjet.com](https://www.easyjet.com/en/news/story/easyjet-and-rolls-royce-complete-successful-100-hydrogen-aero-engine-test-advancing-sustainable-flight-technology)
 - Airbus ZEROe / CFM RISE A380 demonstrator: [greenairnews.com](https://www.greenairnews.com/?p=2595)
 
----
-
-## Factual Corrections to Source Documents
-
-Two factual errors were identified in source documents and have been corrected in this report:
-
-**1. H2FLY flight duration.** Multiple secondary sources state that H2FLY's world-record liquid hydrogen flight lasted "6+ hours." Every primary source (including H2FLY's own press release, Joby Aviation's official announcement, and DLR's confirmation) states the longest of the four flights lasted **over three hours**. The "6+" figure does not appear in any first-party or peer-reviewed source and should not be repeated.
-
-**2. Universal Hydrogen test aircraft.** Multiple secondary sources state that Universal Hydrogen flew a "converted ATR 72 regional turboprop." The actual flight-test aircraft was a **De Havilland Canada Dash 8-300**, nicknamed *Lightning McClean*, which flew from Moses Lake, WA beginning March 2, 2023. The ATR 72 was Universal Hydrogen's *planned commercial product* (a conversion kit for the 72-passenger ATR 72-600) but that aircraft never flew on hydrogen before the company shut down.
-
----
-
-*This report synthesizes publicly available information from GE Aerospace press materials, Clean Aviation project documentation (CORDIS), primary OEM announcements, and independent aerospace media coverage. All links verified as of June 19, 2026.*

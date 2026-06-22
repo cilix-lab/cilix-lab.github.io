@@ -6,9 +6,6 @@ author: "C."
 tags: ["hydrogen aviation", "hydrogen combustion", "fuel cells", "GE Aerospace", "altitude relight", "Clean Aviation"]
 categories: ["Aviation", "Energy"]
 summary: "Hydrogen propulsion moves from concept to tested reality as GE Aerospace achieves the first altitude relight of a hydrogen jet engine, a critical certification gate."
-cover:
-  image: "cover.jpg"
-  alt: "Conceptual illustration of hydrogen jet engine turbine with blue flame at high altitude"
 ---
 
 ## Executive Summary

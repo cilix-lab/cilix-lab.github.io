@@ -43,7 +43,7 @@ buildExpired = false
   # Landing card on the home page
   [params.homeInfoParams]
     Title = "Welcome to `poldermate`"
-    Content = "(/ˈpōl-dər mä-ˈtā/)  \nNotes, builds and field reports from the polder."
+    Content = "/ˈpōl-dər mä-ˈtā/  \nNotes, builds and field reports from the polder."
 
   # Favicons (see section 6)
   [params.assets]
